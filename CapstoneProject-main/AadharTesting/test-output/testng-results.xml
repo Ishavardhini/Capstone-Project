@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T01:11:41 IST" name="Default suite" finished-at="2022-10-14T01:12:39 IST" duration-ms="57877">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T01:11:41 IST" name="Default test" finished-at="2022-10-14T01:12:39 IST" duration-ms="57877">
+      <class name="com.capstone.AadharCitizen">
+        <test-method signature="ChromeBrowser()[pri:0, instance:com.capstone.AadharCitizen@581ac8a8]" started-at="2022-10-14T01:11:41 IST" name="ChromeBrowser" finished-at="2022-10-14T01:11:44 IST" duration-ms="3059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method signature="CitizenCheck()[pri:0, instance:com.capstone.AadharCitizen@581ac8a8]" started-at="2022-10-14T01:11:44 IST" name="CitizenCheck" finished-at="2022-10-14T01:12:00 IST" duration-ms="16037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitizenCheck -->
+      </class> <!-- com.capstone.AadharCitizen -->
+      <class name="com.capstone.AadharAdmin">
+        <test-method signature="ChromeBrowser()[pri:0, instance:com.capstone.AadharAdmin@4229bb3f]" started-at="2022-10-14T01:12:00 IST" name="ChromeBrowser" finished-at="2022-10-14T01:12:02 IST" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method signature="TestHome()[pri:0, instance:com.capstone.AadharAdmin@4229bb3f]" started-at="2022-10-14T01:12:02 IST" name="TestHome" finished-at="2022-10-14T01:12:20 IST" duration-ms="17439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHome -->
+      </class> <!-- com.capstone.AadharAdmin -->
+      <class name="com.capstone.AadharRegister">
+        <test-method signature="ChromeBrowser()[pri:0, instance:com.capstone.AadharRegister@56cdfb3b]" started-at="2022-10-14T01:12:20 IST" name="ChromeBrowser" finished-at="2022-10-14T01:12:24 IST" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method signature="TestHome()[pri:0, instance:com.capstone.AadharRegister@56cdfb3b]" started-at="2022-10-14T01:12:24 IST" name="TestHome" finished-at="2022-10-14T01:12:39 IST" duration-ms="15020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHome -->
+      </class> <!-- com.capstone.AadharRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
